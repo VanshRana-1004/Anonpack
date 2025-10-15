@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Create Next App",
+  title: "Anon-Pack",
   description: "Crypto Wallet",
   icons: {
     icon: "/logo1.svg" 
