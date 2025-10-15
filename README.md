@@ -1,3 +1,7 @@
+## A browser-based demo wallet built to understand how real crypto wallets manage keys and accounts.
+
+## Live [AnonPack](https://anonpack.vercel.app/)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
