@@ -123,7 +123,7 @@ export default function Home() {
   }
 
   return (
-    <div className={`font-sans flex flex-col items-center h-screen ${width>768 ? 'px-32 py-7' : 'px-2 py-0'} gap-7 black bg-black overflow-y-auto`}>
+    <div className={`font-sans flex flex-col items-center h-screen ${width>768 ? 'px-32 py-2' : 'px-2 py-0'} gap-7 black bg-black overflow-y-auto`}>
       
       <ToastContainer position="top-center" autoClose={3000} theme='dark'/>
 
